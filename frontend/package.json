@@ -3,8 +3,10 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
+    "start:portal": "ng serve portal --host 0.0.0.0 --port $PORT",
+    "start:global-site": "ng serve global-site --host 0.0.0.0 --port $PORT",
+    "build:portal": "ng build portal",
+    "build:global-site": "ng build global-site",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
