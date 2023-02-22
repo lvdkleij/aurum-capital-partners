@@ -18,3 +18,5 @@ services:
     volumes:
       - '/app/node_modules'
       - '../../:/app'
+
+      #https://www.matchlessly.com/server-side-rendering-ssr-of-angular-app-with-nginx-server/

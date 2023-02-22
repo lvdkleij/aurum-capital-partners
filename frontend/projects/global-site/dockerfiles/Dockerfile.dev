@@ -18,4 +18,4 @@ RUN npm i
 COPY . .
 
 # Application metadata
-CMD ["npm", "run", "start:global-site"]
+CMD ["npm", "run", "start:global-site:ssr"]

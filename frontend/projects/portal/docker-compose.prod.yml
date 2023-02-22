@@ -3,4 +3,4 @@ services:
   portal:
     image: lakleij/aurum-capital-partners-portal
     ports:
-      - 8102:8100
+      - 80:8100
