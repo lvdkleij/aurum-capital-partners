@@ -1,0 +1,13 @@
+identifier: l4e0gbwdlbu3jdja
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: global-site
+homeFolder: >-
+  /Users/lucasvanderkleij/Code/secure-stack-solutions/aurum-capital-partners/frontend
+distFolder: ./dist/global-site/browser
+outDir: >-
+  /Users/lucasvanderkleij/Code/secure-stack-solutions/aurum-capital-partners/frontend/dist/global-site/static
+handle404: ''
+allowErrorCollect: false
